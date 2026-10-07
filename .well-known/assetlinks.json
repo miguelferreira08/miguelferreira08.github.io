@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.redbeat.app",
+            "sha256_cert_fingerprints": [
+                "A9:74:72:B4:B9:CD:9B:26:52:39:0D:08:10:EF:47:61:57:D3:CB:44:E9:89:8D:5A:A5:2A:95:9D:3F:01:FC:7C"
+            ]
+        }
+    }
+]
